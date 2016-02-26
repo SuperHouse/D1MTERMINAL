@@ -1,9 +1,7 @@
 Terminal Shield for the WeMos D1 Mini
 =====================================
 
-A terminal shield for the [WeMos D1 Mini][1], which is a microcontroller board based on the ESP8266 module.
-
-Copyright 2016 SuperHouse Pty Ltd  
+Copyright 2016 SuperHouse Automation Pty Ltd  
 SuperHouse site:  www.superhouse.tv  
 SuperHouse email: info@superhouse.tv  
 
