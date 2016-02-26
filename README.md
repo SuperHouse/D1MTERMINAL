@@ -16,7 +16,9 @@ Features:
  * Screw terminals for all D1 Mini header pins.
  * General purpose prototyping area for other parts.
 
-More information is available on our product page at:
+![Terminal Shield for D1 Mini](https://raw.githubusercontent.com/SuperHouse/D1MTERMINAL/master/images/D1MTERMINAL-oblique-v1_0.png))]
+
+More information is available at:
 
   http://www.superhouse.tv/d1mterminal
 
