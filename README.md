@@ -15,11 +15,8 @@ Features:
  * Breakout pads for all D1 Mini header pins.
  * General purpose prototyping area for other parts.
 
-![Oblique view](https://raw.githubusercontent.com/SuperHouse/D1MTERMINAL/master/images/D1MTERMINAL-oblique-v1_0.png)
+![Oblique view](https://raw.githubusercontent.com/SuperHouse/D1MTERMINAL/master/images/D1MTERMINAL-v1_0-oblique.jpg)
 
-![Top view](https://raw.githubusercontent.com/SuperHouse/D1MTERMINAL/master/images/D1MTERMINAL-top-v1_0.png)
-
-![Bottom view](https://raw.githubusercontent.com/SuperHouse/D1MTERMINAL/master/images/D1MTERMINAL-bottom-v1_0.png)
 
 More information is available at:
 
