@@ -1093,6 +1093,297 @@ design rules under a new name.</description>
 <signal name="N$97">
 <via x="8.89" y="3.81" extent="1-16" drill="1.016"/>
 </signal>
+<signal name="N$98">
+<via x="49.53" y="26.67" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$99">
+<via x="49.53" y="24.13" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$100">
+<via x="49.53" y="21.59" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$101">
+<via x="49.53" y="19.05" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$102">
+<via x="49.53" y="16.51" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$103">
+<via x="49.53" y="13.97" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$104">
+<via x="49.53" y="11.43" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$105">
+<via x="49.53" y="8.89" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$106">
+<via x="49.53" y="6.35" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$107">
+<via x="49.53" y="3.81" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$108">
+<via x="49.53" y="29.21" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$109">
+<via x="49.53" y="31.75" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$110">
+<via x="52.07" y="26.67" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$111">
+<via x="52.07" y="24.13" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$112">
+<via x="52.07" y="21.59" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$113">
+<via x="52.07" y="19.05" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$114">
+<via x="52.07" y="16.51" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$115">
+<via x="52.07" y="13.97" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$116">
+<via x="52.07" y="11.43" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$117">
+<via x="52.07" y="8.89" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$118">
+<via x="52.07" y="6.35" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$119">
+<via x="52.07" y="3.81" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$120">
+<via x="52.07" y="29.21" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$121">
+<via x="52.07" y="31.75" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$122">
+<via x="54.61" y="26.67" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$123">
+<via x="54.61" y="24.13" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$124">
+<via x="54.61" y="21.59" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$125">
+<via x="54.61" y="19.05" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$126">
+<via x="54.61" y="16.51" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$127">
+<via x="54.61" y="13.97" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$128">
+<via x="54.61" y="11.43" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$129">
+<via x="54.61" y="8.89" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$130">
+<via x="54.61" y="6.35" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$131">
+<via x="54.61" y="3.81" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$132">
+<via x="54.61" y="29.21" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$133">
+<via x="54.61" y="31.75" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$134">
+<via x="57.15" y="26.67" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$135">
+<via x="57.15" y="24.13" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$136">
+<via x="57.15" y="21.59" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$137">
+<via x="57.15" y="19.05" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$138">
+<via x="57.15" y="16.51" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$139">
+<via x="57.15" y="13.97" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$140">
+<via x="57.15" y="11.43" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$141">
+<via x="57.15" y="8.89" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$142">
+<via x="57.15" y="6.35" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$143">
+<via x="57.15" y="3.81" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$144">
+<via x="57.15" y="29.21" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$145">
+<via x="57.15" y="31.75" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$146">
+<via x="49.53" y="1.27" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$147">
+<via x="52.07" y="1.27" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$148">
+<via x="54.61" y="1.27" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$149">
+<via x="57.15" y="1.27" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$150">
+<via x="59.69" y="26.67" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$151">
+<via x="59.69" y="24.13" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$152">
+<via x="59.69" y="21.59" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$153">
+<via x="59.69" y="19.05" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$154">
+<via x="59.69" y="16.51" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$155">
+<via x="59.69" y="13.97" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$156">
+<via x="59.69" y="11.43" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$157">
+<via x="59.69" y="8.89" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$158">
+<via x="59.69" y="6.35" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$159">
+<via x="59.69" y="3.81" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$160">
+<via x="59.69" y="29.21" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$161">
+<via x="59.69" y="31.75" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$162">
+<via x="62.23" y="26.67" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$163">
+<via x="62.23" y="24.13" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$164">
+<via x="62.23" y="21.59" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$165">
+<via x="62.23" y="19.05" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$166">
+<via x="62.23" y="16.51" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$167">
+<via x="62.23" y="13.97" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$168">
+<via x="62.23" y="11.43" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$169">
+<via x="62.23" y="8.89" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$170">
+<via x="62.23" y="6.35" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$171">
+<via x="62.23" y="3.81" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$172">
+<via x="62.23" y="29.21" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$173">
+<via x="62.23" y="31.75" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$174">
+<via x="59.69" y="1.27" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$175">
+<via x="62.23" y="1.27" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$176">
+<via x="64.77" y="29.21" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$177">
+<via x="64.77" y="31.75" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$178">
+<via x="67.31" y="29.21" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$179">
+<via x="67.31" y="31.75" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$180">
+<via x="64.77" y="6.35" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$181">
+<via x="64.77" y="3.81" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$182">
+<via x="67.31" y="6.35" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$183">
+<via x="67.31" y="3.81" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$184">
+<via x="64.77" y="1.27" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$185">
+<via x="67.31" y="1.27" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$186">
+<via x="44.45" y="6.35" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$187">
+<via x="44.45" y="3.81" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$188">
+<via x="46.99" y="6.35" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$189">
+<via x="46.99" y="3.81" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$191">
+<via x="46.99" y="1.27" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$192">
+<via x="44.45" y="29.21" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$193">
+<via x="44.45" y="31.75" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$194">
+<via x="46.99" y="29.21" extent="1-16" drill="1.016"/>
+</signal>
+<signal name="N$195">
+<via x="46.99" y="31.75" extent="1-16" drill="1.016"/>
+</signal>
 </signals>
 <errors>
 <approved hash="18,29,4659f0fa04055e6c"/>
