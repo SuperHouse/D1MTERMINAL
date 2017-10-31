@@ -17,6 +17,9 @@ Features:
 
 ![Oblique view](https://raw.githubusercontent.com/SuperHouse/D1MTERMINAL/master/images/D1MTERMINAL-v1_0-oblique.jpg)
 
+![Top view](https://raw.githubusercontent.com/SuperHouse/D1MTERMINAL/master/images/D1MTERMINAL-v1_0-top-render.png)
+
+![Bottom view](https://raw.githubusercontent.com/SuperHouse/D1MTERMINAL/master/images/D1MTERMINAL-v1_0-bottom-render.png)
 
 More information is available at:
 
